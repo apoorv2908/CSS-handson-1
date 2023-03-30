@@ -1,0 +1,49 @@
+h1{
+    color: red;
+}
+
+h3{
+    font-style: italic;
+    color: red;
+}
+
+ol{
+    color: darkred;
+    line-height: 200%;
+}
+
+ol{
+    color:darkred; 
+    line-height: 300%;
+}
+
+.lt{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.bg{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.new{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+ul{
+    letter-spacing: 5px;
+    color: darkred;
+}
+
+p{
+    color: firebrick;
+}
+
+a{
+    background-color: yellow;
+    color: firebrick;
+    font-style: italic;
+    text-decoration: none;
+}
